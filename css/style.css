@@ -1,0 +1,143 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+    
+.asos {
+    position: relative;
+    z-index: 1;
+    background-origin: border-box;
+    width: 100%;
+    height:auto;
+    background:linear-gradient(222.26deg, #3B1D60 1.22%, #040D3E 106.28%);
+}
+li{display: inline-block;
+    
+    margin-left: 20px;
+}
+.text{
+    color: #B5B5B5;
+    text-decoration: none;
+}
+.btn1{
+    position: absolute;
+    width: 112px;
+    height: 36px;
+    font-size: 25px;
+    background:linear-gradient(222.26deg, #3B1D60 1.22%, #040D3E 106.28%);
+    border: 2px solid #F2994A;
+    color: #F2994A;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+.btn2{
+    position: absolute;
+    width: 112px;
+    height: 36px;
+    font-size: 25px;
+    background:#F2994A;
+    color: #Fffff1;
+    box-sizing: border-box;
+    border-radius: 4px;
+
+}
+.sar{
+    text-transform: uppercase;
+    position: absolute;
+    width: 531px;
+    height: 150px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 44px;
+    line-height: 50px;
+    color: #99EFD0; 
+}
+.odam{
+    position: relative;
+    width: 40%;
+    top: 50px;
+    left: 500px;
+}
+.sar>p{
+    text-transform: lowercase;
+    line-height: 22px;
+    font-size: 18px;
+    color: #8476AA;
+    margin-left: -20px;
+
+}
+.btn22{
+    position: relative;
+    width: 157px;
+    height: 46px;
+    font-size: 18px;
+    left: 200px;
+    background:linear-gradient(222.26deg, #3B1D60 1.22%, #040D3E 106.28%);
+    padding-bottom: 40px;
+    border: 2px solid #F2994A;
+    color: #F2994A;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+.btn12{
+    position: absolute;
+    width: 157px;
+    height: 46px;
+    font-size: 18px;
+    background-color:#F2994A ;
+    color: #fffff5;
+    border: 2px solid #F2994A;
+    padding-bottom: 40px;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+.p1{
+    position: relative;
+    left: 200px;
+    top: -80px;
+}
+.you{
+position: relative;
+color: #99EFD0;
+font-weight: 900;
+font-size: 42px;
+line-height: 50px;
+text-align: center;
+margin: auto;
+}
+ 
+ th>a{
+    margin-left: 220px;
+    text-decoration: none;
+    color: whitesmoke;
+ }
+ th{
+     width: 150px;
+ }
+ td{
+     width: 150px;
+ }
+
+
+ td>a{
+    width: 150px;
+    margin-left: 220px;
+    text-decoration: none;
+    color: whitesmoke;
+ }
+.sal{
+    margin-left: 0;
+}
+ b{
+    color: whitesmoke;
+ }
+ table{
+    width: 100%;
+ }
+ tr>th{
+    width: 966px;
+    height: 50px;
+    margin-left: 500px;
+ }
